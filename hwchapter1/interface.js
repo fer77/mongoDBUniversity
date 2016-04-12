@@ -27,6 +27,3 @@ exports.byDirector = function(db, director, callback) {
     callback(null, docs);
   });
 };
-
-// code:
-// the mean stack awakens
